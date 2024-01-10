@@ -1,5 +1,5 @@
-![Step 2](https://github.com/Juliet48/Facial-Recognition/assets/151746493/70cf3166-c479-4150-99fa-37186a526b13)# Facial-Recognition
- A process of how to capture, save, load and identify an image.
+# Facial-Recognition
+   # A process of how to capture, save, load and identify an image.
 
 The folowing process should be done on your visual studio code (vs-code)
 I have broken the process to 10 steps to make it easier and to avoid errors
